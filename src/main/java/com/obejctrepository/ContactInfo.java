@@ -10,7 +10,7 @@ public class ContactInfo {
 	{
 		this.driver=driver;
 	}
-	//contactinformation
+	//contactinformation for  files
 	By FirstName=By.xpath("//input[@name='firstName']");
 	By LastName=By.xpath("//input[@name='lastName']");
 	By Phone=By.xpath("//input[@name='phone']");
